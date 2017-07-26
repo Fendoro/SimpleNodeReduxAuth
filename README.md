@@ -4,7 +4,7 @@ Based on course: https://www.udemy.com/react-redux-tutorial/
 
 ### Used Technologies
 
-JS6, react, redux, babel, webpack, json web token (jwt), high order component (hoc), node, express, passport, redux-thunk, redux-form, react-router, axios, promise, mongodb, mongoose, cors
+ES6, react, redux, babel, webpack, json web token (jwt), high order component (hoc), node, express, passport, redux-thunk, redux-form, react-router, axios, promise, mongodb, mongoose, cors
 
 ### Getting Started
 
